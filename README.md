@@ -32,9 +32,7 @@ This project explores a simple question:
 - **Epoch Budgets:** 5, 30
 
 **Total experiments:**  
-\[
-2 \ (\text{optimizers}) \times 2 \ (\text{initializations}) \times 3 \ (\text{schedulers}) \times 2 \ (\text{budgets}) = 24
-\]
+2 (optimizers) × 2 (initializations) × 3 (schedulers) × 2 (epoch budgets) = **24**
 
 Each experiment differs by only one factor at a time, ensuring **fair comparisons**.
 
