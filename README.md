@@ -4,6 +4,7 @@ This project investigates how **SGD** and **Adam** optimizers behave when traini
 Rather than focusing only on final performance, the study analyzes **training dynamics**, **convergence speed**, and **generalization behavior** under strict epoch budgets.
 
 This is a learning-focused project designed to build intuition through **controlled and reproducible experiments**.
+You can access the paper [here](paper.pdf).
 
 ---
 
